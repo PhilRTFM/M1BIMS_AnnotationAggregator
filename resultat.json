@@ -1,0 +1,927 @@
+{
+    "homo_sapiens": {
+        "Symbole": "RAD51",
+        "Ensembl": {
+            "division": "Vertebrates.",
+            "gene_acces_number": "ENSG00000051180",
+            "RNA_acces_number": {
+                "RAD51-206": "ENST00000527860",
+                "RAD51-203": "ENST00000423169",
+                "RAD51-210": "ENST00000557850",
+                "RAD51-202": "ENST00000382643",
+                "RAD51-201": "ENST00000267868",
+                "RAD51-211": "ENST00000645673",
+                "RAD51-204": "ENST00000525066",
+                "RAD51-205": "ENST00000526763",
+                "RAD51-208": "ENST00000532743",
+                "RAD51-207": "ENST00000531277",
+                "RAD51-209": "ENST00000533741"
+            },
+            "proteine": {
+                "RAD51-206": "ENSP00000432759",
+                "RAD51-203": "ENSP00000406602",
+                "RAD51-210": "ENSP00000454176",
+                "RAD51-202": "ENSP00000372088",
+                "RAD51-201": "ENSP00000267868",
+                "RAD51-211": "ENSP00000493712",
+                "RAD51-204": "ENSP00000431864",
+                "RAD51-205": "ENSP00000431897",
+                "RAD51-208": "ENSP00000433924",
+                "RAD51-207": "ENSP00000436512",
+                "RAD51-209": "ENSP00000433053"
+            }
+        },
+        "NCBI": {
+            "Gene": "RAD51",
+            "Gene ID": "5888",
+            "Description": "RAD51 recombinase",
+            "Transcrits": [
+                "XM_011521857",
+                "XM_011521861",
+                "NM_133487",
+                "NM_002875",
+                "NM_001164270",
+                "NM_001164269",
+                "XM_011521860",
+                "XM_011521858",
+                "XM_011521859",
+                "XM_047432925",
+                "NM_002875",
+                "XM_054378566",
+                "XM_054378570",
+                "XM_054378567",
+                "NM_133487",
+                "NM_002875",
+                "NM_001164270",
+                "NM_001164269",
+                "XM_054378569",
+                "XM_054378568",
+                "XM_054378571"
+            ],
+            "Prot\u00e9ines": [
+                "XP_011520159",
+                "XP_011520163",
+                "NP_597994",
+                "NP_002866",
+                "NP_001157742",
+                "NP_001157741",
+                "XP_011520162",
+                "XP_011520160",
+                "XP_011520161",
+                "XP_047288881",
+                "NP_002866",
+                "XP_054234541",
+                "XP_054234545",
+                "XP_054234542",
+                "NP_597994",
+                "NP_002866",
+                "NP_001157742",
+                "NP_001157741",
+                "XP_054234544",
+                "XP_054234543",
+                "XP_054234546"
+            ]
+        },
+        "Uniprot": "Q06609",
+        "GO_terms": {
+            "Molecular Function": {
+                "GO:0005524": "ATP binding",
+                "GO:0016887": "ATP hydrolysis activity",
+                "GO:0008094": "ATP-dependent activity, acting on DNA",
+                "GO:0140664": "ATP-dependent DNA damage sensor activity",
+                "GO:0003682": "chromatin binding",
+                "GO:0070182": "DNA polymerase binding",
+                "GO:0000150": "DNA strand exchange activity",
+                "GO:0003690": "double-stranded DNA binding",
+                "GO:0019899": "enzyme binding",
+                "GO:0042802": "identical protein binding",
+                "GO:0003697": "single-stranded DNA binding",
+                "GO:0017116": "single-stranded DNA helicase activity"
+            },
+            "Biological Process": {
+                "GO:0072757": "cellular response to camptothecin",
+                "GO:0072719": "cellular response to cisplatin",
+                "GO:0071480": "cellular response to gamma radiation",
+                "GO:0072711": "cellular response to hydroxyurea",
+                "GO:0071479": "cellular response to ionizing radiation",
+                "GO:0070192": "chromosome organization involved in meiotic cell cycle",
+                "GO:0006974": "DNA damage response",
+                "GO:0000730": "DNA recombinase assembly",
+                "GO:0006310": "DNA recombination",
+                "GO:0006281": "DNA repair",
+                "GO:0042148": "DNA strand invasion",
+                "GO:0006268": "DNA unwinding involved in DNA replication",
+                "GO:1990918": "double-strand break repair involved in meiotic recombination",
+                "GO:0000724": "double-strand break repair via homologous recombination",
+                "GO:0036297": "interstrand cross-link repair",
+                "GO:0051321": "meiotic cell cycle",
+                "GO:0006312": "mitotic recombination",
+                "GO:1990426": "mitotic recombination-dependent replication fork processing",
+                "GO:0051106": "positive regulation of DNA ligation",
+                "GO:0007131": "reciprocal meiotic recombination",
+                "GO:2000001": "regulation of DNA damage checkpoint",
+                "GO:0010569": "regulation of double-strand break repair via homologous recombination",
+                "GO:0031297": "replication fork processing",
+                "GO:1990414": "replication-born double-strand break repair via sister chromatid exchange",
+                "GO:1904631": "response to glucoside",
+                "GO:0009636": "response to toxic substance",
+                "GO:0010165": "response to X-ray",
+                "GO:0009410": "response to xenobiotic stimulus",
+                "GO:0000722": "telomere maintenance via recombination",
+                "GO:0010833": "telomere maintenance via telomere lengthening"
+            },
+            "Cellular Component": {
+                "GO:0005813": "centrosome",
+                "GO:0000785": "chromatin",
+                "GO:0000781": "chromosome, telomeric region",
+                "GO:0000793": "condensed chromosome",
+                "GO:0000794": "condensed nuclear chromosome",
+                "GO:0005737": "cytoplasm",
+                "GO:0005829": "cytosol",
+                "GO:0000800": "lateral element",
+                "GO:0001673": "male germ cell nucleus",
+                "GO:0005759": "mitochondrial matrix",
+                "GO:0005739": "mitochondrion",
+                "GO:0000228": "nuclear chromosome",
+                "GO:0000152": "nuclear ubiquitin ligase complex",
+                "GO:0005730": "nucleolus",
+                "GO:0005654": "nucleoplasm",
+                "GO:0005634": "nucleus",
+                "GO:0048471": "perinuclear region of cytoplasm",
+                "GO:0016605": "PML body",
+                "GO:0099182": "presynaptic intermediate filament cytoskeleton",
+                "GO:0032991": "protein-containing complex",
+                "GO:0035861": "site of double-strand break"
+            }
+        },
+        "interpro": [
+            {
+                "id": "IPR003593",
+                "name": "AAA+_ATPase"
+            },
+            {
+                "id": "IPR011941",
+                "name": "DNA_recomb/repair_Rad51"
+            },
+            {
+                "id": "IPR013632",
+                "name": "DNA_recomb/repair_Rad51_C"
+            },
+            {
+                "id": "IPR016467",
+                "name": "DNA_recomb/repair_RecA-like"
+            },
+            {
+                "id": "IPR010995",
+                "name": "DNA_repair_Rad51/TF_NusA_a-hlx"
+            },
+            {
+                "id": "IPR027417",
+                "name": "P-loop_NTPase"
+            },
+            {
+                "id": "IPR020588",
+                "name": "RecA_ATP-bd"
+            },
+            {
+                "id": "IPR020587",
+                "name": "RecA_monomer-monomer_interface"
+            }
+        ]
+    },
+    "arabidopsis_thaliana": {
+        "Symbole": "PHYB",
+        "Ensembl": {
+            "division": "Plants.",
+            "gene_acces_number": "AT2G18790",
+            "RNA_acces_number": {
+                "PHYB-201": "AT2G18790.2",
+                "PHYB-202": "AT2G18790.1"
+            },
+            "proteine": {
+                "PHYB-201": "AT2G18790.2",
+                "PHYB-202": "AT2G18790.1"
+            }
+        },
+        "NCBI": {
+            "Gene": "PHYB",
+            "Gene ID": "816394",
+            "Description": "phytochrome B",
+            "Transcrits": [
+                "NM_001335612",
+                "NM_127435"
+            ],
+            "Prot\u00e9ines": [
+                "NP_001325249",
+                "NP_179469"
+            ]
+        },
+        "Uniprot": "P14713",
+        "GO_terms": {
+            "Molecular Function": {
+                "GO:0031516": "far-red light photoreceptor activity",
+                "GO:0042802": "identical protein binding",
+                "GO:0000155": "phosphorelay sensor kinase activity",
+                "GO:1990841": "promoter-specific chromatin binding",
+                "GO:0042803": "protein homodimerization activity",
+                "GO:0031517": "red light photoreceptor activity",
+                "GO:0009883": "red or far-red light photoreceptor activity",
+                "GO:0043565": "sequence-specific DNA binding"
+            },
+            "Biological Process": {
+                "GO:0009687": "abscisic acid metabolic process",
+                "GO:0006325": "chromatin organization",
+                "GO:0010617": "circadian regulation of calcium ion oscillation",
+                "GO:0009584": "detection of visible light",
+                "GO:0009649": "entrainment of circadian clock",
+                "GO:0009630": "gravitropism",
+                "GO:0009867": "jasmonic acid mediated signaling pathway",
+                "GO:0045892": "negative regulation of DNA-templated transcription",
+                "GO:0009640": "photomorphogenesis",
+                "GO:0015979": "photosynthesis",
+                "GO:0009638": "phototropism",
+                "GO:0017012": "protein-phytochromobilin linkage",
+                "GO:0010161": "red light signaling pathway",
+                "GO:0031347": "regulation of defense response",
+                "GO:2000028": "regulation of photoperiodism, flowering",
+                "GO:0010029": "regulation of seed germination",
+                "GO:0009409": "response to cold",
+                "GO:0010218": "response to far red light",
+                "GO:0009416": "response to light stimulus",
+                "GO:0010244": "response to low fluence blue light stimulus by blue low-fluence system",
+                "GO:0010202": "response to low fluence red light stimulus",
+                "GO:0009266": "response to temperature stimulus",
+                "GO:0010374": "stomatal complex development",
+                "GO:0010148": "transpiration"
+            },
+            "Cellular Component": {
+                "GO:0005829": "cytosol",
+                "GO:0016604": "nuclear body",
+                "GO:0016607": "nuclear speck",
+                "GO:0005634": "nucleus"
+            }
+        },
+        "interpro": [
+            {
+                "id": "IPR003018",
+                "name": "GAF"
+            },
+            {
+                "id": "IPR029016",
+                "name": "GAF-like_dom_sf"
+            },
+            {
+                "id": "IPR036890",
+                "name": "HATPase_C_sf"
+            },
+            {
+                "id": "IPR003594",
+                "name": "HATPase_dom"
+            },
+            {
+                "id": "IPR005467",
+                "name": "His_kinase_dom"
+            },
+            {
+                "id": "IPR003661",
+                "name": "HisK_dim/P_dom"
+            },
+            {
+                "id": "IPR000014",
+                "name": "PAS"
+            },
+            {
+                "id": "IPR035965",
+                "name": "PAS-like_dom_sf"
+            },
+            {
+                "id": "IPR013654",
+                "name": "PAS_2"
+            },
+            {
+                "id": "IPR013767",
+                "name": "PAS_fold"
+            },
+            {
+                "id": "IPR044767",
+                "name": "Phy_HATPase-like"
+            },
+            {
+                "id": "IPR016132",
+                "name": "Phyto_chromo_attachment"
+            },
+            {
+                "id": "IPR013516",
+                "name": "Phyto_chromo_BS"
+            },
+            {
+                "id": "IPR001294",
+                "name": "Phytochrome"
+            },
+            {
+                "id": "IPR012129",
+                "name": "Phytochrome_A-E"
+            },
+            {
+                "id": "IPR013515",
+                "name": "Phytochrome_cen-reg"
+            },
+            {
+                "id": "IPR043150",
+                "name": "Phytochrome_PHY_sf"
+            }
+        ]
+    },
+    "saccharomyces_cerevisiae": {
+        "Symbole": "SFA1",
+        "Ensembl": {
+            "division": "Fungi.",
+            "gene_acces_number": "YDL168W",
+            "RNA_acces_number": {
+                "SFA1": "YDL168W_mRNA"
+            },
+            "proteine": {
+                "SFA1": "YDL168W"
+            }
+        },
+        "NCBI": {
+            "Gene": "SFA1",
+            "Gene ID": "851386",
+            "Description": "bifunctional alcohol dehydrogenase/S-(hydroxymethyl)glutathione dehydrogenase",
+            "Transcrits": [
+                "NM_001180228"
+            ],
+            "Prot\u00e9ines": [
+                "NP_010113"
+            ]
+        },
+        "Uniprot": "P32771",
+        "GO_terms": {
+            "Molecular Function": {
+                "GO:0004022": "alcohol dehydrogenase (NAD+) activity",
+                "GO:0033833": "hydroxymethylfurfural reductase (NADH) activity",
+                "GO:0106322": "S-(hydroxymethyl)glutathione dehydrogenase (NAD+) activity",
+                "GO:0106321": "S-(hydroxymethyl)glutathione dehydrogenase (NADP+) activity",
+                "GO:0051903": "S-(hydroxymethyl)glutathione dehydrogenase [NAD(P)+] activity",
+                "GO:0080007": "S-nitrosoglutathione reductase (NADH) activity",
+                "GO:0008270": "zinc ion binding"
+            },
+            "Biological Process": {
+                "GO:0000947": "amino acid catabolic process to alcohol via Ehrlich pathway",
+                "GO:0046294": "formaldehyde catabolic process",
+                "GO:0033859": "furaldehyde metabolic process"
+            },
+            "Cellular Component": {
+                "GO:0005737": "cytoplasm",
+                "GO:0005829": "cytosol",
+                "GO:0005739": "mitochondrion"
+            }
+        },
+        "interpro": [
+            {
+                "id": "IPR013149",
+                "name": "ADH-like_C"
+            },
+            {
+                "id": "IPR013154",
+                "name": "ADH-like_N"
+            },
+            {
+                "id": "IPR014183",
+                "name": "ADH_3"
+            },
+            {
+                "id": "IPR002328",
+                "name": "ADH_Zn_CS"
+            },
+            {
+                "id": "IPR011032",
+                "name": "GroES-like_sf"
+            },
+            {
+                "id": "IPR036291",
+                "name": "NAD(P)-bd_dom_sf"
+            }
+        ]
+    },
+    "leishmania_major": {
+        "Symbole": "ACP",
+        "Ensembl": {
+            "division": "Protists.",
+            "gene_acces_number": "LMJF_27_0290",
+            "RNA_acces_number": {
+                "ACP-1": "CBZ12089"
+            },
+            "proteine": {
+                "ACP-1": "CBZ12089"
+            }
+        },
+        "NCBI": {
+            "Gene": "ACP",
+            "Gene ID": "12982621",
+            "Description": "putative acyl carrier protein",
+            "Transcrits": [
+                "XM_003721787"
+            ],
+            "Prot\u00e9ines": [
+                "XP_003721835"
+            ]
+        },
+        "Uniprot": "E9AD06",
+        "GO_terms": {
+            "Molecular Function": {
+                "GO:0000035": "acyl binding",
+                "GO:0000036": "acyl carrier activity"
+            },
+            "Biological Process": {
+                "GO:0006633": "fatty acid biosynthetic process"
+            },
+            "Cellular Component": {
+                "GO:0005759": "mitochondrial matrix",
+                "GO:0005739": "mitochondrion"
+            }
+        },
+        "interpro": [
+            {
+                "id": "IPR003231",
+                "name": "ACP"
+            },
+            {
+                "id": "IPR036736",
+                "name": "ACP-like_sf"
+            },
+            {
+                "id": "IPR009081",
+                "name": "PP-bd_ACP"
+            },
+            {
+                "id": "IPR006162",
+                "name": "Ppantetheine_attach_site"
+            }
+        ]
+    },
+    "escherichia_coli_gca_005395625": {
+        "Symbole": "HYBE",
+        "Ensembl": {
+            "division": "Bacteria.",
+            "gene_acces_number": "ENSB:JtHcuhrOTHiO7ND",
+            "RNA_acces_number": {
+                "undefined": "ENSB:JtHcuhrOTHiO7ND"
+            },
+            "proteine": {
+                "undefined": "ENSB:JtHcuhrOTHiO7ND"
+            }
+        },
+        "NCBI": {
+            "Gene": "HYBE",
+            "Gene ID": "947483",
+            "Description": "hydrogenase 2-specific chaperone",
+            "Transcrit": null,
+            "Prot\u00e9ine": null
+        },
+        "Uniprot": "P0AAN1",
+        "GO_terms": {
+            "Molecular Function": {
+                "GO:0070678": "preprotein binding"
+            },
+            "Biological Process": {
+                "GO:0051604": "protein maturation"
+            },
+            "Cellular Component": {}
+        },
+        "interpro": [
+            {
+                "id": "IPR023994",
+                "name": "NiFe-hyd_HybE"
+            },
+            {
+                "id": "IPR038530",
+                "name": "NiFe-hyd_HybE_sf"
+            }
+        ]
+    },
+    "mus_musculus": {
+        "Symbole": "IL10",
+        "Ensembl": {
+            "division": "Vertebrates.",
+            "gene_acces_number": "ENSMUSG00000016529",
+            "RNA_acces_number": {
+                "Il10-201": "ENSMUST00000016673"
+            },
+            "proteine": {
+                "Il10-201": "ENSMUSP00000016673"
+            }
+        },
+        "NCBI": {
+            "Gene": "IL10",
+            "Gene ID": "16153",
+            "Description": "interleukin 10",
+            "Transcrits": [
+                "XM_036162094",
+                "NM_010548"
+            ],
+            "Prot\u00e9ines": [
+                "XP_036017987",
+                "NP_034678"
+            ]
+        },
+        "Uniprot": "Q9UK39",
+        "GO_terms": {
+            "Molecular Function": {
+                "GO:0000175": "3'-5'-RNA exonuclease activity",
+                "GO:0046872": "metal ion binding",
+                "GO:0003729": "mRNA binding",
+                "GO:0019178": "NADP phosphatase activity",
+                "GO:0102757": "NADPH phosphatase activity",
+                "GO:0004535": "poly(A)-specific ribonuclease activity"
+            },
+            "Biological Process": {
+                "GO:0032922": "circadian regulation of gene expression",
+                "GO:0000290": "deadenylation-dependent decapping of nuclear-transcribed mRNA",
+                "GO:0048255": "mRNA stabilization",
+                "GO:0006739": "NADP metabolic process",
+                "GO:0010629": "negative regulation of gene expression",
+                "GO:0045668": "negative regulation of osteoblast differentiation",
+                "GO:0033962": "P-body assembly",
+                "GO:0045600": "positive regulation of fat cell differentiation",
+                "GO:0042752": "regulation of circadian rhythm",
+                "GO:0045995": "regulation of embryonic development",
+                "GO:0032496": "response to lipopolysaccharide",
+                "GO:0006366": "transcription by RNA polymerase II"
+            },
+            "Cellular Component": {
+                "GO:0005737": "cytoplasm",
+                "GO:0005739": "mitochondrion",
+                "GO:0005654": "nucleoplasm",
+                "GO:0005634": "nucleus",
+                "GO:0000932": "P-body",
+                "GO:0048471": "perinuclear region of cytoplasm"
+            }
+        },
+        "interpro": [
+            {
+                "id": "IPR050410",
+                "name": "CCR4/nocturin_mRNA_transcr"
+            },
+            {
+                "id": "IPR034965",
+                "name": "Deadenylase_nocturnin"
+            },
+            {
+                "id": "IPR036691",
+                "name": "Endo/exonu/phosph_ase_sf"
+            },
+            {
+                "id": "IPR005135",
+                "name": "Endo/exonuclease/phosphatase"
+            }
+        ]
+    },
+    "bos_taurus": {
+        "Symbole": "CryAB",
+        "Ensembl": {
+            "division": "Vertebrates.",
+            "gene_acces_number": "ENSBTAG00000000434",
+            "RNA_acces_number": {
+                "CRYAB-204": "ENSBTAT00000098431",
+                "CRYAB-203": "ENSBTAT00000087415",
+                "CRYAB-201": "ENSBTAT00000000556",
+                "CRYAB-202": "ENSBTAT00000076985"
+            },
+            "proteine": {
+                "CRYAB-204": "ENSBTAP00000080294",
+                "CRYAB-203": "ENSBTAP00000068917",
+                "CRYAB-201": "ENSBTAP00000000556",
+                "CRYAB-202": "ENSBTAP00000059200"
+            }
+        },
+        "NCBI": {
+            "Gene": "CryAB",
+            "Gene ID": "281719",
+            "Description": "crystallin alpha B",
+            "Transcrits": [
+                "NM_174290"
+            ],
+            "Prot\u00e9ines": [
+                "NP_776715"
+            ]
+        },
+        "Uniprot": "P02510",
+        "GO_terms": {
+            "Molecular Function": {
+                "GO:0046872": "metal ion binding",
+                "GO:0042803": "protein homodimerization activity",
+                "GO:0005212": "structural constituent of eye lens",
+                "GO:0051082": "unfolded protein binding"
+            },
+            "Biological Process": {
+                "GO:0043066": "negative regulation of apoptotic process",
+                "GO:0045892": "negative regulation of DNA-templated transcription",
+                "GO:0032387": "negative regulation of intracellular transport",
+                "GO:0042026": "protein refolding",
+                "GO:0009408": "response to heat"
+            },
+            "Cellular Component": {
+                "GO:0005737": "cytoplasm",
+                "GO:0005576": "extracellular region",
+                "GO:0005764": "lysosome",
+                "GO:0005634": "nucleus",
+                "GO:0032991": "protein-containing complex"
+            }
+        },
+        "interpro": [
+            {
+                "id": "IPR002068",
+                "name": "A-crystallin/Hsp20_dom"
+            },
+            {
+                "id": "IPR037882",
+                "name": "ACD_alphaB-crystallin"
+            },
+            {
+                "id": "IPR001436",
+                "name": "Alpha-crystallin/sHSP_animal"
+            },
+            {
+                "id": "IPR003090",
+                "name": "Alpha-crystallin_N"
+            },
+            {
+                "id": "IPR008978",
+                "name": "HSP20-like_chaperone"
+            }
+        ]
+    },
+    "drosophila_melanogaster": {
+        "Symbole": "Antp",
+        "Ensembl": {
+            "division": "Metazoa.",
+            "gene_acces_number": "FBgn0260642",
+            "RNA_acces_number": {
+                "Antp-RK": "FBtr0081656",
+                "Antp-RG": "FBtr0081649",
+                "Antp-RO": "FBtr0479859",
+                "Antp-RN": "FBtr0081651",
+                "Antp-RJ": "FBtr0081655",
+                "Antp-RM": "FBtr0081647",
+                "Antp-RH": "FBtr0081646",
+                "Antp-RD": "FBtr0081648",
+                "Antp-RE": "FBtr0081650",
+                "Antp-RI": "FBtr0081654",
+                "Antp-RF": "FBtr0081653",
+                "Antp-RL": "FBtr0081652"
+            },
+            "proteine": {
+                "Antp-RK": "FBpp0089247",
+                "Antp-RG": "FBpp0089242",
+                "Antp-RO": "FBpp0428195",
+                "Antp-RN": "FBpp0089086",
+                "Antp-RJ": "FBpp0089246",
+                "Antp-RM": "FBpp0081161",
+                "Antp-RH": "FBpp0081160",
+                "Antp-RD": "FBpp0089241",
+                "Antp-RE": "FBpp0089243",
+                "Antp-RI": "FBpp0089245",
+                "Antp-RF": "FBpp0089244",
+                "Antp-RL": "FBpp0081162"
+            }
+        },
+        "NCBI": {
+            "Gene": "Antp",
+            "Gene ID": "40835",
+            "Description": "Antennapedia",
+            "Transcrits": [
+                "NM_206451",
+                "NM_206450",
+                "NM_206449",
+                "NM_206453",
+                "NM_001382007",
+                "NM_206444",
+                "NM_206447",
+                "NM_206452",
+                "NM_206448",
+                "NM_206446",
+                "NM_206445",
+                "NM_206454"
+            ],
+            "Prot\u00e9ines": [
+                "NP_996173",
+                "NP_996172",
+                "NP_996171",
+                "NP_996175",
+                "NP_001368996",
+                "NP_996166",
+                "NP_996169",
+                "NP_996174",
+                "NP_996170",
+                "NP_996168",
+                "NP_996167",
+                "NP_996176"
+            ]
+        },
+        "Uniprot": "P02833",
+        "GO_terms": {
+            "Molecular Function": {
+                "GO:0003677": "DNA binding",
+                "GO:0000981": "DNA-binding transcription factor activity, RNA polymerase II-specific",
+                "GO:0000978": "RNA polymerase II cis-regulatory region sequence-specific DNA binding",
+                "GO:0043565": "sequence-specific DNA binding"
+            },
+            "Biological Process": {
+                "GO:0009948": "anterior/posterior axis specification",
+                "GO:0009952": "anterior/posterior pattern specification",
+                "GO:0007507": "heart development",
+                "GO:0048542": "lymph gland development",
+                "GO:0007494": "midgut development",
+                "GO:0042694": "muscle cell fate specification",
+                "GO:0000122": "negative regulation of transcription by RNA polymerase II",
+                "GO:0014019": "neuroblast development",
+                "GO:0045944": "positive regulation of transcription by RNA polymerase II",
+                "GO:0050767": "regulation of neurogenesis",
+                "GO:0007383": "specification of segmental identity, antennal segment",
+                "GO:0007384": "specification of segmental identity, thorax",
+                "GO:0007419": "ventral cord development"
+            },
+            "Cellular Component": {
+                "GO:0005737": "cytoplasm",
+                "GO:0005634": "nucleus"
+            }
+        },
+        "interpro": [
+            {
+                "id": "IPR050296",
+                "name": "Antp_homeobox"
+            },
+            {
+                "id": "IPR001356",
+                "name": "HD"
+            },
+            {
+                "id": "IPR020479",
+                "name": "HD_metazoa"
+            },
+            {
+                "id": "IPR017995",
+                "name": "Homeobox_antennapedia"
+            },
+            {
+                "id": "IPR001827",
+                "name": "Homeobox_Antennapedia_CS"
+            },
+            {
+                "id": "IPR017970",
+                "name": "Homeobox_CS"
+            },
+            {
+                "id": "IPR009057",
+                "name": "Homeodomain-like_sf"
+            }
+        ]
+    },
+    "gallus_gallus": {
+        "Symbole": "EGFR",
+        "Ensembl": {
+            "division": "Vertebrates.",
+            "gene_acces_number": "ENSGALG00010007381",
+            "RNA_acces_number": {
+                "EGFR-209": "ENSGALT00010017579",
+                "EGFR-202": "ENSGALT00010017581",
+                "EGFR-206": "ENSGALT00010017587",
+                "EGFR-205": "ENSGALT00010017590",
+                "EGFR-204": "ENSGALT00010017592",
+                "EGFR-207": "ENSGALT00010017595",
+                "EGFR-203": "ENSGALT00010017597",
+                "EGFR-208": "ENSGALT00010017601",
+                "EGFR-201": "ENSGALT00010017603"
+            },
+            "proteine": {
+                "EGFR-209": "ENSGALP00010009714",
+                "EGFR-202": "ENSGALP00010009717",
+                "EGFR-206": "ENSGALP00010009719",
+                "EGFR-205": "ENSGALP00010009721",
+                "EGFR-204": "ENSGALP00010009722",
+                "EGFR-207": "ENSGALP00010009724",
+                "EGFR-203": "ENSGALP00010009726",
+                "EGFR-208": "ENSGALP00010009727",
+                "EGFR-201": "ENSGALP00010009729"
+            }
+        },
+        "NCBI": {
+            "Gene": "EGFR",
+            "Gene ID": "396494",
+            "Description": "epidermal growth factor receptor",
+            "Transcrits": [
+                "NM_205497",
+                "XM_046919485",
+                "XM_046919477",
+                "XM_046919476",
+                "XM_046919483",
+                "XM_015281328",
+                "XM_025147076",
+                "XM_025147075",
+                "XM_046919479",
+                "NM_205497",
+                "XM_046910558",
+                "XM_046910554",
+                "XM_046910553",
+                "XM_046910557",
+                "XM_046910556",
+                "XM_046910552",
+                "XM_046910551",
+                "XM_046910555"
+            ],
+            "Prot\u00e9ines": [
+                "NP_990828",
+                "XP_046775441",
+                "XP_046775433",
+                "XP_046775432",
+                "XP_046775439",
+                "XP_015136814",
+                "XP_025002844",
+                "XP_025002843",
+                "XP_046775435",
+                "NP_990828",
+                "XP_046766514",
+                "XP_046766510",
+                "XP_046766509",
+                "XP_046766513",
+                "XP_046766512",
+                "XP_046766508",
+                "XP_046766507",
+                "XP_046766511"
+            ]
+        },
+        "Uniprot": "P13387",
+        "GO_terms": {
+            "Molecular Function": {
+                "GO:0005524": "ATP binding",
+                "GO:0008288": "boss receptor activity",
+                "GO:0060175": "brain-derived neurotrophic factor receptor activity",
+                "GO:0005006": "epidermal growth factor receptor activity",
+                "GO:0005007": "fibroblast growth factor receptor activity",
+                "GO:0005004": "GPI-linked ephrin receptor activity",
+                "GO:0005008": "hepatocyte growth factor receptor activity",
+                "GO:0140801": "histone H2AXY142 kinase activity",
+                "GO:0035401": "histone H3Y41 kinase activity",
+                "GO:0005009": "insulin receptor activity",
+                "GO:0005010": "insulin-like growth factor receptor activity",
+                "GO:0005011": "macrophage colony-stimulating factor receptor activity",
+                "GO:0036332": "placental growth factor receptor activity",
+                "GO:0005018": "platelet-derived growth factor alpha-receptor activity",
+                "GO:0005019": "platelet-derived growth factor beta-receptor activity",
+                "GO:0004713": "protein tyrosine kinase activity",
+                "GO:0038062": "protein tyrosine kinase collagen receptor activity",
+                "GO:0005020": "stem cell factor receptor activity",
+                "GO:0005005": "transmembrane-ephrin receptor activity",
+                "GO:0005021": "vascular endothelial growth factor receptor activity"
+            },
+            "Biological Process": {
+                "GO:0071364": "cellular response to epidermal growth factor stimulus",
+                "GO:0007173": "epidermal growth factor receptor signaling pathway",
+                "GO:0007611": "learning or memory"
+            },
+            "Cellular Component": {
+                "GO:0005789": "endoplasmic reticulum membrane",
+                "GO:0010008": "endosome membrane",
+                "GO:0000139": "Golgi membrane",
+                "GO:0031965": "nuclear membrane",
+                "GO:0005634": "nucleus",
+                "GO:0005886": "plasma membrane"
+            }
+        },
+        "interpro": [
+            {
+                "id": "IPR044912",
+                "name": "Egfr_JX_dom"
+            },
+            {
+                "id": "IPR006211",
+                "name": "Furin-like_Cys-rich_dom"
+            },
+            {
+                "id": "IPR006212",
+                "name": "Furin_repeat"
+            },
+            {
+                "id": "IPR032778",
+                "name": "GF_recep_IV"
+            },
+            {
+                "id": "IPR009030",
+                "name": "Growth_fac_rcpt_cys_sf"
+            },
+            {
+                "id": "IPR000494",
+                "name": "Rcpt_L-dom"
+            },
+            {
+                "id": "IPR036941",
+                "name": "Rcpt_L-dom_sf"
+            },
+            {
+                "id": "IPR049328",
+                "name": "TM_ErbB1"
+            }
+        ]
+    }
+}

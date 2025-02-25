@@ -1,0 +1,9 @@
+RAD51,homo_sapiens
+PHYB,arabidopsis_thaliana
+SFA1,saccharomyces_cerevisiae
+ACP,Leishmania_major
+HYBE,Escherichia_coli_gca_005395625
+IL10,mus_musculus
+CryAB,Bos taurus
+Antp,Drosophila melanogaster
+EGFR,Gallus gallus
